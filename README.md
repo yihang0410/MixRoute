@@ -27,8 +27,7 @@ Neural Combinatorial Optimization (NCO) is a promising paradigm for solving rout
 
 We show that the potential of **single-distribution training** has been substantially underestimated, and can be unlocked by a simple architectural inductive bias: **Mix Normalization**.
 
-- 🧭 **MixRoute** adaptively combines normalization statistics at different granularities to mitigate varying distribution shifts.
-- 🎯 Trained **exclusively on uniform distributions**, it generalizes zero-shot to a wide range of unseen distributions — no distribution-specific adaptation required.
+- 🎯 Trained **exclusively on uniform distributions**, it generalizes zero-shot to a wide range of unseen distributions.
 - 📊 A comprehensive **benchmark** spanning **3 routing problems** (TSP, CVRP, CVRPTW) and **179 fine-grained datasets**, covering shifts in node coordinates, customer demands, capacity and time windows.
 
 ## 🚧 Code Release
