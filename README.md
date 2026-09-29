@@ -41,7 +41,7 @@ If you find this work useful, please consider citing:
 ```bibtex
 @inproceedings{yi2026mixroute,
   title     = {MixRoute: Rethinking Single-Distribution Training for Generalizable Neural Routing},
-  author    = {Yi, Hang and Huang, Ziwei and Cao, Zhiguang and Ma, Yining},
+  author    = {Yi, Hang and Huang, Ziwei and Ma, Yining and Cao, Zhiguang},
   booktitle = {Advances in Neural Information Processing Systems},
   year      = {2026}
 }
