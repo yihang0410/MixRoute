@@ -8,7 +8,7 @@
 [![Paper](https://img.shields.io/badge/Paper-Coming%20Soon-b31b1b.svg)](#)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](#)
 
-**Hang Yi**<sup>1</sup> · **Ziwei Huang**<sup>1</sup> · **Zhiguang Cao**<sup>1</sup> · **Yining Ma**<sup>2</sup>
+**Hang Yi**<sup>1</sup> · **Ziwei Huang**<sup>1</sup> · **Yining Ma**<sup>2,✉</sup> · **Zhiguang Cao**<sup>1</sup>
 
 <sup>1</sup>Singapore Management University &nbsp;&nbsp; <sup>2</sup>Massachusetts Institute of Technology
 
