@@ -16,6 +16,16 @@
 
 ---
 
+## 🔍 Overview
+
+Neural solvers for routing problems often fail to generalize beyond their training distribution. Existing methods address this with multi-distribution training or meta-learning. We show that **single-distribution training** has been substantially underestimated, and that a simple architectural inductive bias can unlock it: **Mix Normalization**.
+
+**MixRoute** replaces the normalization layers of the encoder with **Add & Mix Norm**. This layer adaptively combines Instance, Layer and Batch Normalization statistics through a learned gate, so the model can handle different kinds of distribution shift. Trained **only on uniform instances**, MixRoute generalizes zero-shot to a wide range of unseen distributions without any distribution-specific adaptation. It is evaluated on a benchmark of **179 datasets** over TSP, CVRP and CVRPTW, covering shifts in node coordinates, customer demands, capacity and time windows.
+
+<p align="center">
+  <a href="assets/framework.pdf"><img src="assets/framework.png" width="100%" alt="MixRoute framework"></a>
+</p>
+
 ## 🏋️ Train
 
 ```bash
