@@ -1,0 +1,111 @@
+PARAMETER_FILE = /common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.par
+Reading PROBLEM_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.vrp" ... done
+ASCENT_CANDIDATES = 50
+BACKBONE_TRIALS = 0
+BACKTRACKING = NO
+# BWTSP =
+# CANDIDATE_FILE =
+CANDIDATE_SET_TYPE = ALPHA
+# DISTANCE =
+DEPOT = 1
+# EDGE_FILE =
+EXCESS = 0.118812
+EXTERNAL_SALESMEN = 0
+EXTRA_CANDIDATES = 0 
+EXTRA_CANDIDATE_SET_TYPE = QUADRANT
+GAIN23 = YES
+GAIN_CRITERION = YES
+INITIAL_PERIOD = 100
+INITIAL_STEP_SIZE = 1
+INITIAL_TOUR_ALGORITHM = WALK
+# INITIAL_TOUR_FILE = 
+INITIAL_TOUR_FRACTION = 1.000
+# INPUT_TOUR_FILE = 
+K = 0
+KICK_TYPE = 0
+KICKS = 1
+# MAX_BREADTH =
+MAKESPAN = NO
+MAX_CANDIDATES = 5 
+MAX_SWAPS = 101
+MAX_TRIALS = 100
+# MERGE_TOUR_FILE =
+MOVE_TYPE = 5 
+MTSP_MIN_SIZE = 1
+MTSP_MAX_SIZE = 100
+# MTSP_SOLUTION_FILE = 
+# NONSEQUENTIAL_MOVE_TYPE = 5
+# OPTIMUM =
+OUTPUT_TOUR_FILE = /common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour
+PATCHING_A = 1 
+PATCHING_C = 0 
+# PI_FILE = 
+POPMUSIC_INITIAL_TOUR = NO
+POPMUSIC_MAX_NEIGHBORS = 5
+POPMUSIC_SAMPLE_SIZE = 10
+POPMUSIC_SOLUTIONS = 50
+POPMUSIC_TRIALS = 1
+# POPULATION_SIZE = 0
+PRECISION = 100
+# PROBABILITY =
+PROBLEM_FILE = /common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.vrp
+RECOMBINATION = IPT
+RESTRICTED_SEARCH = YES
+RUNS = 1
+SALESMEN = 12
+SCALE = 1
+SEED = 123
+# SINTEF_SOLUTION_FILE = 
+STOP_AT_OPTIMUM = YES
+SUBGRADIENT = YES
+# SUBPROBLEM_SIZE =
+# SUBPROBLEM_TOUR_FILE = 
+SUBSEQUENT_MOVE_TYPE = 5 
+SUBSEQUENT_PATCHING = YES
+TIME_LIMIT = 600.0
+# TOTAL_TIME_LIMIT =
+# TOUR_FILE = 
+TRACE_LEVEL = 1
+VEHICLES = 12
+
+Lower bound = 83209.9, Ascent time = 0.02 sec.
+Cand.min = 5, Cand.avg = 5.0, Cand.max = 5
+Preprocessing time = 0.02 sec.
+* 1: Cost = 2_124963, Time = 3.72 sec. 
+* 2: Cost = 0_114832, Time = 15.09 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+* 16: Cost = 0_114625, Time = 103.71 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+* 17: Cost = 0_114594, Time = 110.92 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+* 19: Cost = 0_113470, Time = 124.68 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+* 20: Cost = 0_113404, Time = 129.06 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+* 21: Cost = 0_113324, Time = 134.01 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+* 22: Cost = 0_112645, Time = 140.70 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+* 30: Cost = 0_112332, Time = 210.68 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+* 37: Cost = 0_112301, Time = 287.06 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+* 50: Cost = 0_112300, Time = 401.44 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+* 60: Cost = 0_111931, Time = 546.22 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/beta/2.0_2.0/cvrp_n100_out/CVRP_N100_I00093.tour" ... done
+*** Time limit exceeded ***
+Run 1: Cost = 0_111931, Time = 601.94 sec. 
+
+Successes/Runs = 0/1 
+Cost.min = 111931, Cost.avg = 111931.00, Cost.max = 111931
+Gap.min = 0.0000%, Gap.avg = 0.0000%, Gap.max = 0.0000%
+Penalty.min = 0, Penalty.avg = 0.00, Penalty.max = 0
+Trials.min = 64, Trials.avg = 64.0, Trials.max = 64
+Time.min = 601.94 sec., Time.avg = 601.94 sec., Time.max = 601.94 sec.
+Time.total = 601.96 sec.
+  Size.min = 1, Size.max = 10, Penalty = 0
+  Cost.min = 558, Cost.max = 16118, Cost.sum = 111931
+Best CVRP solution:
+  Cost = 0_111931
+

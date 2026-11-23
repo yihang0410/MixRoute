@@ -1,0 +1,105 @@
+PARAMETER_FILE = /common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.par
+Reading PROBLEM_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.vrp" ... done
+ASCENT_CANDIDATES = 50
+BACKBONE_TRIALS = 0
+BACKTRACKING = NO
+# BWTSP =
+# CANDIDATE_FILE =
+CANDIDATE_SET_TYPE = ALPHA
+# DISTANCE =
+DEPOT = 1
+# EDGE_FILE =
+EXCESS = 0.108911
+EXTERNAL_SALESMEN = 0
+EXTRA_CANDIDATES = 0 
+EXTRA_CANDIDATE_SET_TYPE = QUADRANT
+GAIN23 = YES
+GAIN_CRITERION = YES
+INITIAL_PERIOD = 100
+INITIAL_STEP_SIZE = 1
+INITIAL_TOUR_ALGORITHM = WALK
+# INITIAL_TOUR_FILE = 
+INITIAL_TOUR_FRACTION = 1.000
+# INPUT_TOUR_FILE = 
+K = 0
+KICK_TYPE = 0
+KICKS = 1
+# MAX_BREADTH =
+MAKESPAN = NO
+MAX_CANDIDATES = 5 
+MAX_SWAPS = 101
+MAX_TRIALS = 100
+# MERGE_TOUR_FILE =
+MOVE_TYPE = 5 
+MTSP_MIN_SIZE = 1
+MTSP_MAX_SIZE = 100
+# MTSP_SOLUTION_FILE = 
+# NONSEQUENTIAL_MOVE_TYPE = 5
+# OPTIMUM =
+OUTPUT_TOUR_FILE = /common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.tour
+PATCHING_A = 1 
+PATCHING_C = 0 
+# PI_FILE = 
+POPMUSIC_INITIAL_TOUR = NO
+POPMUSIC_MAX_NEIGHBORS = 5
+POPMUSIC_SAMPLE_SIZE = 10
+POPMUSIC_SOLUTIONS = 50
+POPMUSIC_TRIALS = 1
+# POPULATION_SIZE = 0
+PRECISION = 100
+# PROBABILITY =
+PROBLEM_FILE = /common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.vrp
+RECOMBINATION = IPT
+RESTRICTED_SEARCH = YES
+RUNS = 1
+SALESMEN = 11
+SCALE = 1
+SEED = 123
+# SINTEF_SOLUTION_FILE = 
+STOP_AT_OPTIMUM = YES
+SUBGRADIENT = YES
+# SUBPROBLEM_SIZE =
+# SUBPROBLEM_TOUR_FILE = 
+SUBSEQUENT_MOVE_TYPE = 5 
+SUBSEQUENT_PATCHING = YES
+TIME_LIMIT = 600.0
+# TOTAL_TIME_LIMIT =
+# TOUR_FILE = 
+TRACE_LEVEL = 1
+VEHICLES = 11
+
+Lower bound = 50988.9, Ascent time = 0.02 sec.
+Cand.min = 5, Cand.avg = 5.0, Cand.max = 5
+Preprocessing time = 0.02 sec.
+* 1: Cost = 28_71615, Time = 7.05 sec. 
+* 2: Cost = 0_77298, Time = 12.11 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.tour" ... done
+* 3: Cost = 0_76674, Time = 17.69 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.tour" ... done
+* 9: Cost = 0_76526, Time = 56.76 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.tour" ... done
+* 10: Cost = 0_76513, Time = 59.32 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.tour" ... done
+* 14: Cost = 0_76054, Time = 74.87 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.tour" ... done
+* 44: Cost = 0_75974, Time = 263.32 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.tour" ... done
+* 51: Cost = 0_75866, Time = 293.60 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.tour" ... done
+* 69: Cost = 0_75681, Time = 441.34 sec. 
+Writing OUTPUT_TOUR_FILE: "/common/home/users/h/hang.yi.2024/Code/MatNet-Distance/ACVRP/generalization/distribution/annulus/biased_ring/azimuth/cvrp_n100_out/CVRP_N100_I00107.tour" ... done
+*** Time limit exceeded ***
+Run 1: Cost = 0_75681, Time = 602.41 sec. 
+
+Successes/Runs = 0/1 
+Cost.min = 75681, Cost.avg = 75681.00, Cost.max = 75681
+Gap.min = 0.0000%, Gap.avg = 0.0000%, Gap.max = 0.0000%
+Penalty.min = 0, Penalty.avg = 0.00, Penalty.max = 0
+Trials.min = 85, Trials.avg = 85.0, Trials.max = 85
+Time.min = 602.41 sec., Time.avg = 602.41 sec., Time.max = 602.41 sec.
+Time.total = 602.44 sec.
+  Size.min = 2, Size.max = 12, Penalty = 0
+  Cost.min = 1263, Cost.max = 12707, Cost.sum = 75681
+Best CVRP solution:
+  Cost = 0_75681
+
